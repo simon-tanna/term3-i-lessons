@@ -1,0 +1,5 @@
+[
+    {"name": "Pikachu", "elements": ["Electric", "Rat"], "lvl": 14},
+    {"name": "Caterpie", "elements": ["Bug", "Grass"], "lvl": 6},
+    {"name": "Charizard", "elements": ["Fire", "Flying"], "lvl": 33}
+]
